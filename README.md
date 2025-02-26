@@ -6,6 +6,8 @@ Cross platform anime streaming platform!
 
 WIP
 
+gonna revive soon :)
+
 ## Roadmap
 
 - [ ] Anilist integration
